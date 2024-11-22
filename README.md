@@ -8,7 +8,6 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/berkantkaraca?cardType=github&theme=github-dark&preferLogin=false&Ring=1E7DB6E4)](https://git.io/awesome-stats-card)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=berkantkaraca&layout=compact&theme=dark&hide_border=true) 
 
-
 ## 💻 My    Tech Stack:
 <table border="1">
   <tr>
@@ -56,8 +55,7 @@
 </table>
 
 ## 🌐 Connect with me:
-<a href="mailto:berkantkaracatr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail " /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/berkantkaraca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/berkantkaraca" height="30" width="40" /></a>
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berkantkaracatr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkantkaraca/)
 
 ⭐️ Feel free to explore my repositories and connect with me for collaboration!
-</p>
